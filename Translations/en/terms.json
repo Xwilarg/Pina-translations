@@ -18,7 +18,7 @@
 	"prefixSet" : "Your prefix was set to {0}.",
 	"verbositySet" : "Your verbosity was set to {0}.",
 	"whitelistUnset" : "Your whitelist was removed.",
-	"whitelistSet" : "Your whitelist was set to the following roles:",
+	"whitelistSet" : "Your whitelist was set to the following roles:\n{0}",
 
 	"whitelistError" : "{0} You aren't allowed to pin messages",
 
