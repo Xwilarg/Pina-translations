@@ -35,6 +35,7 @@
 	"helpCommunication" : "Vous pouvez aussi utiliser ces commandes:",
 	"helpGdpr" : "**Gdpr**: Affiche les information que j'ai à propos de ce serveur",
 	"helpInfo" : "**Info**: Affiche diverses information à propos de moi",
+	"helpInvite" : "**Invite**: Affiche le lien d'invitation du bot",
 
 	"invalidKey" : "Clée {0} manquante dans les fichiers de traduction."
 }

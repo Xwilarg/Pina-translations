@@ -35,6 +35,7 @@
 	"helpCommunication" : "You can also use these command:",
 	"helpGdpr" : "**Gdpr**: Display the information I have about this guild",
 	"helpInfo" : "**Info**: Display various information about me",
+	"helpInvite" : "**Invite**: Display the invite link of the bot",
 
 	"invalidKey" : "Missing key {0} in translation files."
 }
