@@ -8,6 +8,7 @@
 	"gdprPm" : "I only save data about guilds.",
 
 	"settingsPm" : "This command is only available in a guild.",
+	"settingsNoPerm" : "You don't have the permission to do this command",
 	"languageHelp" : "You must provide the language you want me to speak between these ones:\n{0}",
 	"verbosityHelp" : "You must provide a verbosity between none, error and info",
 	"invalidLanguage" : "This language is available, here's the list of the available ones:\n{0}",
@@ -18,6 +19,8 @@
 	"verbositySet" : "Your verbosity was set to {0}.",
 	"whitelistUnset" : "Your whitelist was removed.",
 	"whitelistSet" : "Your whitelist was set to the following roles:",
+
+	"whitelistError" : "{0} You aren't allowed to pin messages",
 
 	"helpIntro" : "I'm here to simplify the process of pinning messages.",
 	"helpPerm" : "Please make sure that I have the 'Manage Messages permission (I need it to pin messages).",
