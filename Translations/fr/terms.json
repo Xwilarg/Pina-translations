@@ -1,3 +1,40 @@
 {
+	"alreadyPinned" : "Ce message est déjà épinglé.",
+	"missingPermission" : "Je n'ai pas été capable d'épinglé ce message, vérifiez que j'ai la permission 'Gérer les messages'.",
+	"nothingToPing" : "Il n'y a rien à épinglé.",
+	"invalidId" : "Je n'ai trouvé aucun message avec cette id.",
+	"tooManyPins" : "Vous avez atteint la limite d'épingles pour ce channel.",
 
+	"dataSavedAbout" : "Données sauvegarder pour {0}:",
+	"gdprPm" : "Je sauvegarde uniquement des données sur les serveurs.",
+
+	"settingsPm" : "Cette commande est uniquement disponible dans une guilde.",
+	"settingsNoPerm" : "Vous n'avez pas la permission d'utiliser cette commande.",
+	"languageHelp" : "Vous devez fournir la langue dans lequel vous voulez que je parle parmis:\n{0}",
+	"verbosityHelp" : "Vous devez fournir le niveau de verbosité entre none, error et info",
+	"invalidLanguage" : "Cette langue n'est pas disponible, voici la liste desquels vous pouvez choisir:\n{0}",
+	"invalidVerbosity" : "La verbosité selectionnée doit être none, error ou info.",
+	"invalidWhitelist" : "Je n'ai trouvé aucun rôle pour {0}.",
+	"languageSet" : "Votre langue a été mise sur {0}.",
+	"prefixSet" : "Votre préfix a été mis sur {0}.",
+	"verbositySet" : "Votre verbosité a été mise sur {0}.",
+	"whitelistUnset" : "Votre whitelist a été supprimé.",
+	"whitelistSet" : "Votre whitelist a été mise sur les rôles suivants:\n{0}",
+	"none" : "rien",
+
+	"whitelistError" : "Vous n'êtes pas autorisé à épingler des messages.",
+
+	"helpIntro" : "Je suis ici pour simplifier le processus d'épinglement des messages.",
+	"helpPerm" : "Soyez sûr que j'ai la permission 'Gérer les messages' (J'en ai besoin pour les épingler).",
+	"helpPin" : "Vous avez 2 moyens de le faire:\nLeur ajouter une réaction 📌\nFaire la commande 'Pin', optionnelement suivit par l'ID du message",
+	"helpSettings" : "Vous pouvez aussi faire une de ces commandes pour changer mon comportement par défaut:",
+	"helpLanguage" : "**Language [nom de la langue]**: Change la langue dans laquel je parle",
+	"helpVerbosity" : "**Verbosity [none/error/info]**: Change si je dit quelque chose ou non quand quelque chose se produit",
+	"helpWhitelist" : "**Whitelist [(optionnel)rôles]**: Change les rôles qui peuvent épingler des messages, n'écrivez rien pour tous",
+	"helpPrefix" : "**Prefix [(optionnel)préfix]**: Change le préfix pour les commandes du bot, n'écrivez rien pour pouvoir utiliser les commandes sansa préfix",
+	"helpCommunication" : "Vous pouvez aussi utiliser ces commandes:",
+	"helpGdpr" : "**Gdpr**: Affiche les information que j'ai à propos de ce serveur",
+	"helpInfo" : "**Info**: Affiche diverses information à propos de moi",
+
+	"invalidKey" : "Clée {0} manquante dans les fichiers de traduction."
 }
