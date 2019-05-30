@@ -1,3 +1,23 @@
 {
+	"alreadyPinned" : "This message was already pinned.",
+	"missingPermission" : "I wasn't able to pin the message, please make sure that I have the 'Manage Messages' permission.",
+	"nothingToPing" : "There is nothing to ping.",
+	"invalidId" : "I didn't find any message with this id.",
 
+	"dataSavedAbout" : "Data saved about {0}:",
+	"gdprPm" : "I only save data about guilds",
+
+	"helpIntro" : "I'm here to simplify the process of pinning messages.",
+	"helpPerm" : "Please make sure that I have the 'Manage Messages permission (I need it to pin messages).",
+	"helpPin" : "You have 2 ways to pin a message:\nAdding a 📌 reaction to it\nDo the 'Pin' command, optionnaly followed by the ID of the message",
+	"helpSettings" : "You can also change my default behaviour with these commands:",
+	"helpLanguage" : "**Language [language name]**: Set my speaking language",
+	"helpVerbosity" : "**Verbosity [none/info/debug]**: Set how must should I say when an error occur",
+	"helpWhitelist" : "**Whitelist [role ids]**: Set the roles that can pin messages, write 0 for all",
+	"helpPrefix" : "**Prefix [prefix]**: The prefix for bot command, write nothing to allow the use of command without one",
+	"helpCommunication" : "You can also use these command:",
+	"helpGdpr" : "**Gdpr**: Display the information I have about this server",
+	"helpInfo" : "**Info**: Display various information about me",
+
+	"invalidKey" : "Missing key {0} in translation files."
 }
