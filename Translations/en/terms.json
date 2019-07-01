@@ -29,6 +29,7 @@
 	"helpIntro" : "I'm here to simplify the process of pinning messages.",
 	"helpPerm" : "Please make sure that I have the 'Manage Messages permission (I need it to pin them).",
 	"helpPin" : "You have 2 ways to do it:\nAdding a 📌 reaction to it\nDo the 'Pin' command, optionally followed by the ID of the message",
+	"helpUnpin" : "You can also unpin messages by using the 'Unpin' command followed by the ID of the message",
 	"helpSettings" : "You can also change my default behaviour with these commands:",
 	"helpLanguage" : "**Language [language name]**: Set my speaking language",
 	"helpVerbosity" : "**Verbosity [none/error/info]**: Set if I say something or not when something occur",
