@@ -4,6 +4,8 @@
 	"nothingToPing" : "Il n'y a rien à épinglé.",
 	"invalidId" : "Je n'ai trouvé aucun message avec cette id.",
 	"tooManyPins" : "Vous avez atteint la limite d'épingles pour ce channel.",
+	"unpinArgs" : "Vous devez fournir l'ID du message que vous voulez que je désépingle.",
+	"unpinSucceed" : "Le message à été désépinglé.",
 
 	"dataSavedAbout" : "Données sauvegarder pour {0}:",
 	"gdprPm" : "Je sauvegarde uniquement des données sur les serveurs.",
@@ -22,7 +24,7 @@
 	"whitelistSet" : "Votre whitelist a été mise sur les rôles suivants:\n{0}",
 	"none" : "rien",
 
-	"whitelistError" : "Vous n'êtes pas autorisé à épingler des messages.",
+	"whitelistError" : "Vous n'êtes pas autorisé à épingler/désépingler des messages.",
 
 	"helpIntro" : "Je suis ici pour simplifier le processus d'épinglement des messages.",
 	"helpPerm" : "Soyez sûr que j'ai la permission 'Gérer les messages' (J'en ai besoin pour les épingler).",

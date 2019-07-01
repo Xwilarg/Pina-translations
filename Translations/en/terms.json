@@ -4,6 +4,8 @@
 	"nothingToPing" : "There is nothing to ping.",
 	"invalidId" : "I didn't find any message with this id.",
 	"tooManyPins" : "You reached the pin limit for this channel.",
+	"unpinArgs" : "You must give the ID of the message you want to unpin.",
+	"unpinSucceed" : "The message was unpin.",
 
 	"dataSavedAbout" : "Data saved about {0}:",
 	"gdprPm" : "I only save data about guilds.",
@@ -22,7 +24,7 @@
 	"whitelistSet" : "Your whitelist was set to the following roles:\n{0}",
 	"none" : "none",
 
-	"whitelistError" : "You aren't allowed to pin messages.",
+	"whitelistError" : "You aren't allowed to pin/unpin messages.",
 
 	"helpIntro" : "I'm here to simplify the process of pinning messages.",
 	"helpPerm" : "Please make sure that I have the 'Manage Messages permission (I need it to pin them).",
