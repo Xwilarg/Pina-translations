@@ -28,8 +28,8 @@
 
 	"helpIntro" : "Je suis ici pour simplifier le processus d'épinglement des messages.",
 	"helpPerm" : "Soyez sûr que j'ai la permission 'Gérer les messages' (J'en ai besoin pour les épingler).",
-	"helpPin" : "Vous avez 2 moyens de le faire:\nLeur ajouter une réaction 📌\nFaire la commande 'Pin', optionnelement suivit par l'ID du message",
-	"helpUnpin" : "Vous pouvez également désépingler des messages en utilisant la commande 'Unpin'",
+	"helpPin" : "Vous avez 2 moyens de le faire:\nLeur ajouter une réaction 📌\nFaire la commande 'Pin', optionnelement suivit par l'ID du message.",
+	"helpUnpin" : "Vous pouvez également désépingler des messages en utilisant la commande 'Unpin' suivi par l'ID du message, ou en lui ajoutant la réaction ⛔.",
 	"helpSettings" : "Vous pouvez aussi faire une de ces commandes pour changer mon comportement par défaut:",
 	"helpLanguage" : "**Language [nom de la langue]**: Change la langue dans laquel je parle",
 	"helpVerbosity" : "**Verbosity [none/error/info]**: Change si je dit quelque chose ou non quand quelque chose se produit",
