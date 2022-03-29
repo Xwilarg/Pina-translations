@@ -14,7 +14,7 @@
 	"settingsNoPerm" : "Wala kang permission na gawin ang command na ito.",
 	"languageHelp" : "Dapat mong ibigay ang language na nais mong sabihin ko sa pagitan ng mga ito:\n{0}",
 	"verbosityHelp" : "Dapat kang magbigay ng isang verbosity sa pagitan ng none, error at info",
-	"invalidLanguage" : "Ang language ito ay hindi available, narito ang listahan ng mga available:\n{0}",
+	"invalidLanguage" : "Ang language na ito ay hindi available, narito ang listahan ng mga available:\n{0}",
 	"invalidVerbosity" : "Ang napiling verbosity ay dapat na none, error o info.",
 	"invalidWhitelist" : "Wala akong nakitang anumang katugmang role para sa {0}.",
 	"invalidBlacklist" : "Hindi ako nakahanap ng anumang katugmang user para sa {0}.",
