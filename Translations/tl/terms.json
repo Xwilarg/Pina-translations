@@ -1,0 +1,48 @@
+{
+	"alreadyPinned" : "Ang message na ito ay naka-pin na.",
+	"missingPermission" : "Hindi ko na-pin ang message, pakitiyak na mayroon akong pahintulot na 'Manage Messages'.",
+	"nothingToPing" : "Walang dapat i-ping.",
+	"invalidId" : "Wala akong nakitang anumang message kasama ang id na ito.",
+	"tooManyPins" : "Naabot mo ang pin limit para sa channel na ito.",
+	"unpinArgs" : "Dapat mong ibigay ang ID ng message na gusto mong i-unpin.",
+	"unpinSucceed" : "Ang message ay na-unpin.",
+
+	"dataSavedAbout" : "Ang data ay na-save para sa {0}:",
+	"gdprPm" : "Nagse-save lang ako ng data tungkol sa mga guild.",
+
+	"settingsPm" : "Ang command na ito ay magagamit lamang sa isang guild.",
+	"settingsNoPerm" : "Wala kang permission na gawin ang command na ito.",
+	"languageHelp" : "Dapat mong ibigay ang language na nais mong sabihin ko sa pagitan ng mga ito:\n{0}",
+	"verbosityHelp" : "Dapat kang magbigay ng isang verbosity sa pagitan ng none, error at info",
+	"invalidLanguage" : "Ang language ito ay hindi available, narito ang listahan ng mga available:\n{0}",
+	"invalidVerbosity" : "Ang napiling verbosity ay dapat na none, error o info.",
+	"invalidWhitelist" : "Wala akong nakitang anumang katugmang role para sa {0}.",
+	"invalidBlacklist" : "Hindi ako nakahanap ng anumang katugmang user para sa {0}.",
+	"languageSet" : "Ang iyong language ay naitakda sa {0}.",
+	"prefixSet" : "Ang iyong prefix ay itinakda sa {0}.",
+	"verbositySet" : "Ang iyong verbosity ay naitakda sa {0}.",
+	"whitelistUnset" : "Ang iyong whitelist ay tinanggal.",
+	"whitelistSet" : "Ang iyong whitelist ay itinakda sa mga sumusunod na tungkulin:\n{0}",
+	"blacklistUnset" : "Ang iyong blacklist ay tinanggal.",
+	"blacklistSet" : "Ang iyong blacklist ay itinakda sa mga sumusunod na user:\n{0}",
+	"none" : "wala",
+
+	"whitelistError" : "Hindi ka pinapayagang mag-pin/mag-unpin ng mga message.",
+
+	"helpIntro" : "Nandito ako para gawing simple ang proseso ng pag-pin ng mga message.",
+	"helpPerm" : "Pakitiyak na mayroon akong pahintulot na 'Manage Messages (kailangan ko ito upang i-pin ang mga message).",
+	"helpPin" : "Mayroon kang 2 paraan upang gawin ito:\nPagdaragdag ng 📌 reaction dito\nGawin ang command na 'Pin', opsyonal na sinusundan ng ID ng message.",
+	"helpUnpin" : "Maaari mo ring i-unpin ang mga message sa pamamagitan ng paggamit ng command na 'Unpin' na sinusundan ng ID ng message, o sa pamamagitan ng pagdaragdag ng ⛔ dito.",
+	"helpSettings" : "Maaari mo ring baguhin ang aking default na behaviour gamit ang mga command na ito:",
+	"helpLanguage" : "**Language [language name]**: Itakda ang aking language na ginagamit sa pagsasalita",
+	"helpVerbosity" : "**Verbosity [none/error/info]**: Itakda kung may sasabihin ako o hindi kapag may nangyari",
+	"helpWhitelist" : "**Whitelist [(opsyonal)role]**: Itakda ang mga role na maaaring mag-pin ng mga message, huwag magsulat ng kahit ano kung gusto mo na lahat ng mga user",
+	"helpBlacklist" : "**Blacklist [(opsyonal)mga user]**: Itakda ang mga user na hindi makakapag-pin ng mga message, huwag sumulat ng kahit ano kung gusto mo na wala",
+	"helpPrefix" : "**Prefix [(optional)prefix]**: Itakda ang prefix para sa bot command, huwag magsulat ng kahit ano para payagan ang paggamit ng command nang wala ito",
+	"helpCommunication" : "Maaari mo ring gamitin ang mga command na ito:",
+	"helpGdpr" : "**Gdpr**: I-display ang impormasyong mayroon ako tungkol sa guild",
+	"helpInfo" : "**Info**: Magpakita ng iba't ibang impormasyon tungkol sa akin",
+	"helpInvite" : "**Invite**: Ipakita ang invite link ng bot",
+
+	"invalidKey" : "Nakukulang na key {0} sa mga translation file."
+}
