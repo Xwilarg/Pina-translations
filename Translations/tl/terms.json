@@ -7,7 +7,7 @@
 	"unpinArgs" : "Dapat mong ibigay ang ID ng message na gusto mong i-unpin.",
 	"unpinSucceed" : "Ang message ay na-unpin.",
 
-	"dataSavedAbout" : "Ang data ay na-save para sa {0}:",
+	"dataSavedAbout" : "Ang data na na-save sa {0}:",
 	"gdprPm" : "Nagse-save lang ako ng data tungkol sa mga guild.",
 
 	"settingsPm" : "Ang command na ito ay magagamit lamang sa isang guild.",
